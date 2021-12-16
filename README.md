@@ -1,0 +1,1 @@
+- Project aim: perform queries within SQL to clean the data set in preparation for future analysis.
